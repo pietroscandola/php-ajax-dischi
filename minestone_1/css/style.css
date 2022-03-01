@@ -18,3 +18,12 @@ img {
     width: 80%;
     height: auto;
 }
+
+#logo {
+    width: 3%;
+    height: auto;
+}
+
+.bg-navbar {
+    background-color: #2e3a46;
+}
