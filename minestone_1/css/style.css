@@ -1,0 +1,20 @@
+.bg-main {
+    background-color: #1e2d3b;
+    height: 100vh;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: calc(100% / 6 - 40px);
+    margin: 20px;
+    background-color: #2e3a46;
+}
+
+img {
+    width: 80%;
+    height: auto;
+}
